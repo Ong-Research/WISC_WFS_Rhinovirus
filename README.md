@@ -4,14 +4,14 @@
 
 
 
-The code provided here will process the peptide array data available at ____ 
+The code provided here will process the peptide array data available under 10.5281/zenodo.8269759
 and return plasma IgG epitope calls and breast milk IgA epitope calls which are 
 the same as the epitope calls provided as supplemental data with our manuscript.
 
 ## Step-by-step directions
 
 1. Clone this repo.
-2. Download the input data (IgG.lseq.tsv and IgA.lseq.tsv) from Zenodo at ___ and 
+2. Download the input data (IgG.lseq.tsv and IgA.lseq.tsv) from Zenodo at https://zenodo.org/records/8269759 and 
 add to this repo directory.
 3. Run `epitope_calls_analysis.R`.
 
